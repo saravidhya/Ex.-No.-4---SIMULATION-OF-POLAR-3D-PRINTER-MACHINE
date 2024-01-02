@@ -31,7 +31,6 @@
 ![Screenshot 2024-01-03 005539](https://github.com/saravidhya/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/87062069/5b88d74a-882e-46d2-8220-0678711b5ad7)
 
 
-
 ## Output:
 
 ![Screenshot 2024-01-03 005553](https://github.com/saravidhya/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/87062069/30677fef-9120-4e5c-bf54-54438993985d)
