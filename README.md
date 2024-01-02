@@ -37,7 +37,7 @@
 
 
 
-### Name: vidhiya lakshimi.S
+### Name: vidhiya lakshmi.S
 ### Register Number: 23012308
 
 ## Result: 
